@@ -1,26 +1,19 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my way to become a Go developer
+- 🌱 I’m now learning Golang and ways to create microservices using Golang and different tools
+
+How to reach me: telegram: @ninja_dark email: edementieva@list.ru
+
 <!--
 **ninja-dark/ninja-dark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my way to become a Go developer
+- 🌱 I’m now learning Golang and ways to create microservices using Golang and different tools
 
-- 🔭 I’m currently working on ...
-- Golang
+How to reach me: telegram: @ninja_dark email: edementieva@list.ru
 
-- 🌱 I’m currently learning ... 
-- Golang
-- Docker
-- Kubernetes
 
 
