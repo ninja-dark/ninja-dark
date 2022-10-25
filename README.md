@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my way to become a Go developer
-- 🌱 I’m now learning Golang and ways to create microservices using Golang and different tools
+- 🔭 I’m working on my way to become a Go developer
+- 🌱 Currently I’m learning Golang and ways to create microservices using Golang and different tools
+- bust_in_silhouette Open for hire!
 
 How to reach me: telegram: @ninja_dark email: edementieva@list.ru
 
